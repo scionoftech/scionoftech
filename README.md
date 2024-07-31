@@ -34,7 +34,7 @@ I'm a Machine Learning Engineer. I use Machine learning, NLP, and data processin
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scionoftech&show_icons=true&locale=en&layout=compact" alt="scionoftech" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scionoftech&show_icons=true&locale=en" alt="scionoftech" width="410" /></p> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github" alt="scionoftech" width="410" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=scionoftech\&rank_icon=github" alt="scionoftech" width="410" />
 
 <br />
 <hr>
