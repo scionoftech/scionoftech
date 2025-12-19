@@ -38,6 +38,7 @@ Python | FastAPI | PySpark | Elasticsearch | LLMs | LangChain | LangGraph | Dock
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=scionoftech&repo=token-copilot)](https://github.com/scionoftech/token-copilot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=scionoftech&repo=DeepAsr)](https://github.com/scionoftech/DeepAsr)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=scionoftech&repo=FastAPI-Full-Stack-Samples)](https://github.com/scionoftech/FastAPI-Full-Stack-Samples)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=scionoftech&repo=llm_training)](https://github.com/scionoftech/llm_training)
 
 <br />
 </details>
