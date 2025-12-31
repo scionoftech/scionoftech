@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm [Sai Kumar Yava](https://github.com/scionoftech) 👨‍💻
 
 <p>
-A hands-on ML Engineer passionate about building AI-powered products that scale.
+A hands-on AI Engineer passionate about building AI-powered products that scale.
 
-I work at the intersection of Machine Learning, Backend Engineering, and Cloud, turning research ideas into production-ready systems—especially in Generative AI, RAG systems, and intelligent search.
+I work at the intersection of AI, Backend Engineering, and Cloud, turning research ideas into production-ready systems—especially in Generative AI, Agentic AI, and RAG systems.
 
 I enjoy designing clean architectures, optimizing model performance, and building developer-friendly APIs.
 </p>
